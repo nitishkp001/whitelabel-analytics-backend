@@ -1,0 +1,336 @@
+service,month,isrc,product,song_name,artist,album,label,file_name,country,total,royality,userid
+Apple,Apr/23,INK782201237,,Cloud 9,Amrit Nagra  Abhi!,,Abhi,Apple,CA,1,0.1608771378,48
+Apple,Apr/23,INK782201237,,Cloud 9,Amrit Nagra  Abhi!,,Abhi,Apple,CA,1,0.3037278732,48
+Apple,Apr/23,INK782200406,,Naam Ka Bawaal (Barood Se Itna 2) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,AU,1,0.2178867144,28
+Apple,Apr/23,INK782200707,,Barood Se itna 2 (Naam Ka bawaal Lofi + Reverb),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,CA,1,0.140933691,28
+Apple,Apr/23,INK782200406,,Naam Ka Bawaal (Barood Se Itna 2) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,CA,1,0.1608771378,28
+Apple,Apr/23,INK782200406,,Naam Ka Bawaal (Barood Se Itna 2) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,CA,2,0.507027351,28
+Apple,Apr/23,INK782200046,,Meerut Ke Yaar,Abhishek Sikheda,,Abhishek Sikheda Official,Apple,CA,1,0.3037278732,28
+Apple,Apr/23,INK782200406,,Naam Ka Bawaal (Barood Se Itna 2) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,CA,1,0.607455747,28
+Apple,Apr/23,INK782200542,,Badmashi Ka Trend (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,CA,15,7.862201466,28
+Apple,Apr/23,INK782200707,,Barood Se itna 2 (Naam Ka bawaal Lofi + Reverb),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,HU,1,0.2323391754,28
+Apple,Apr/23,INK782200261,,Barood Se Itna 2 Naam Ka bawaal (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,5,0.1879798374,28
+Apple,Apr/23,INK782200406,,Naam Ka Bawaal (Barood Se Itna 2) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,2,0.0704924394,28
+Apple,Apr/23,INK782200542,,Badmashi Ka Trend (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,9,0.3524621958,28
+Apple,Apr/23,INK782200707,,Barood Se itna 2 (Naam Ka bawaal Lofi + Reverb),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,1,0.0234974796,28
+Apple,Apr/23,INK782200261,,Barood Se Itna 2 Naam Ka bawaal (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,1,0.0326478588,28
+Apple,Apr/23,INK782200261,,Barood Se Itna 2 Naam Ka bawaal (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,16,0.8488443258,28
+Apple,Apr/23,INK782200406,,Naam Ka Bawaal (Barood Se Itna 2) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,10,0.5550135978,28
+Apple,Apr/23,INK782200406,,Naam Ka Bawaal (Barood Se Itna 2) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,1,0.0652957176,28
+Apple,Apr/23,INK782200441,,Barood Se itna 2 Dj Remix (Naam ka bawaal) (Featuring. Harendra Nagar) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,1,0.0652957176,28
+Apple,Apr/23,INK782200441,,Barood Se itna 2 Dj Remix (Naam ka bawaal) (Featuring. Harendra Nagar) (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,2,0.0979435758,28
+Apple,Apr/23,INK782200542,,Badmashi Ka Trend (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,9,0.4897178802,28
+Apple,Apr/23,INK782200261,,Barood Se Itna 2 Naam Ka bawaal (feat. Harendra Nagar),Abhishek Sikheda,,Abhishek Sikheda Official,Apple,IN,1,0.0721008378,28
+Apple,Apr/23,INK782201638,,Wajah,Akay Dhariwal  Aakash,,Akay Dhariwal,Apple,CA,1,0.3380182338,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,CA,1,0.2131011408,105
+Apple,Apr/23,INK782201637,,Badnaam,Akay Dhariwal  Aakash,,Akay Dhariwal,Apple,CA,1,0.2931841284,105
+Apple,Apr/23,INK782201638,,Wajah,Akay Dhariwal  Aakash,,Akay Dhariwal,Apple,CH,1,0.689999391,105
+Apple,Apr/23,INK782201638,,Wajah,Akay Dhariwal  Aakash,,Akay Dhariwal,Apple,FI,1,0.2936395572,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,GB,1,0.4746474192,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,GB,1,0.5958716316,105
+Apple,Apr/23,INK782201638,,Wajah,Akay Dhariwal  Aakash,,Akay Dhariwal,Apple,IN,1,0.0723356214,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,JP,1,0.1013908422,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,NZ,1,0.1300640028,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,SG,1,0.2669484366,105
+Apple,Apr/23,INK782201641,,Dalli,Akay Dhariwal  Aakash,,Akay Dhariwal,Apple,US,1,0.2426716248,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,US,1,0.2426716248,105
+Apple,Apr/23,INK782201678,,Kaam Bhaari,Akay Dhariwal,,Akay Dhariwal,Apple,ZA,1,0.0947612574,105
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,AU,1,0.3410512248,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,CA,1,0.260161491,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,CA,2,0.507027351,40
+Apple,Apr/23,INK782200488,,Jo Din Aave So Din Jaahi,Bhai Manjit Singh  Bhai Amarjit Singh,,Alap Audios Entertainment,Apple,CA,1,0.2718492786,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,CA,3,1.5186393666,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,CA,1,0.3144880584,40
+Apple,Apr/23,INK782201365,,Pyar Ho Gaya,Ruhi Behal,,Alap Audios Entertainment,Apple,CA,1,1.501169526,40
+Apple,Apr/23,INK782201365,,Pyar Ho Gaya,Ruhi Behal,,Alap Audios Entertainment,Apple,GB,1,0.4304760222,40
+Apple,Apr/23,INK782201365,,Pyar Ho Gaya,Ruhi Behal,,Alap Audios Entertainment,Apple,GB,1,0.5869228914,40
+Apple,Apr/23,INK782200425,,Channa,Ruhi Behal,,Alap Audios Entertainment,Apple,GB,1,0.5958716316,40
+Apple,Apr/23,INK782201365,,Pyar Ho Gaya,Ruhi Behal,,Alap Audios Entertainment,Apple,GB,5,4.7669730522,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,IN,1,0.0652957176,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,IN,5,0.2611828692,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,IN,3,0.2875302642,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,IN,4,0.40254237,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,IN,2,0.2318653296,40
+Apple,Apr/23,INK782201365,,Pyar Ho Gaya,Ruhi Behal,,Alap Audios Entertainment,Apple,IN,1,0.0579663324,40
+Apple,Apr/23,INK782200451,,Pyar Alfaaz,Sukhjinder Alfaaz,,Alap Audios Entertainment,Apple,IN,1,0.0624556068,40
+Apple,Apr/23,INK782201365,,Pyar Ho Gaya,Ruhi Behal,,Alap Audios Entertainment,Apple,US,1,0.1392929226,40
+Apple,Apr/23,INK782200488,,Jo Din Aave So Din Jaahi,Bhai Manjit Singh  Bhai Amarjit Singh,,Alap Audios Entertainment,Apple,US,1,0.2426716248,40
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,CA,3,0.6504037278,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,CA,2,0.6393034218,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,CA,1,0.3037278732,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,CA,1,0.607455747,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,ES,1,0.319628553,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,50,1.9502908152,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,3,0.1174873986,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,2,0.0979435758,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,34,1.8282800862,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,1,0.0721008378,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,14,1.158195558,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,10,0.9157128372,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,9,0.8625907926,39
+Apple,Apr/23,INK782201397,,Titli,Sumit Ghanghas,,Aman Digital,Apple,IN,1,0.1150121058,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,76,7.361724216,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,17,1.6230573078,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,8,0.8119228848,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,IN,11,1.3020411876,39
+Apple,Apr/23,INK782200460,,Jaat,Addy B.,,Aman Digital,Apple,NZ,1,0.4018346778,39
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,AU,1,0.1615383096,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,AU,1,0.1783705596,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,AU,1,0.2178867144,77
+Apple,Apr/23,INK782201065,,Gebi Shab roopgarh aala,Surender Romio,,Andy Roopgarhiye,Apple,AU,1,0.4357734288,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,AU,1,0.682102449,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,CA,1,0.150735354,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,GB,1,0.5958716316,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,IN,1,0.0234974796,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,IN,5,0.2611828692,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,IN,1,0.0721008378,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,IN,3,0.241290741,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,IN,17,1.6101694794,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,IN,8,0.7535623218,77
+Apple,Apr/23,INK782201135,,Gebi Shab,Surender Romio,,Andy Roopgarhiye,Apple,IN,1,0.0579663324,77
+Apple,Apr/23,INK782201008,,Gebi Shab Teri Aarti Gau (feat . Vikas Roopgarh) (feat. Vikas Roopgarh),Manjeet Ridhal,,Andy Roopgarhiye,Apple,IN,4,0.5063493504,77
+Apple,Apr/23,INK782200790,,Swarg Ki Hoor (feat. Ankit Sadullapur  Sourabh Kapasiya),Harendra Nagar,,Ankit Gujjar Sadullapur,Apple,GB,2,1.700052513,63
+Apple,Apr/23,INK782200790,,Swarg Ki Hoor (feat. Ankit Sadullapur  Sourabh Kapasiya),Harendra Nagar,,Ankit Gujjar Sadullapur,Apple,GB,1,0.5958716316,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,5,0.1879798374,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,19,1.0120836192,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,1,0.0652957176,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,1,0.0360504186,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,1,0.0426496518,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,2,0.1930325928,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,5,0.4578564186,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,42,4.0254236982,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,1,0.0575060526,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,14,1.3332256458,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,2,0.1738989972,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,1,0.0624556068,63
+Apple,Apr/23,INK782201080,,Gujjar Ka Yudh (feat. Ankit Gujjar Sadullapur),Mahesh Nagar,,Ankit Gujjar Sadullapur,Apple,IN,1,0.1446712428,63
+Apple,Apr/23,INK782201024,,Mera Ala Baman,Raju Haryanvi  Neha Sharma,,Ankit X Sawan Team,Apple,CA,1,0.1300807458,78
+Apple,Apr/23,INK782201202,,Chora Baman Ka,Vishnu Namunda  Batta Ala Sawan  Ankit Budsamiya,,Ankit X Sawan Team,Apple,CA,2,0.3902422368,78
+Apple,Apr/23,INK782201064,,Rawan Raj,Batta Ala Sawan  Ankit Budsamiya,,Ankit X Sawan Team,Apple,FR,1,0.3034756704,78
+Apple,Apr/23,INK782201186,,Rajput Kaum,Harsh Karnal  Deep Rajput  Aman Rajput,,Ankit X Sawan Team,Apple,IN,2,0.0704924394,78
+Apple,Apr/23,INK782201229,,Jai Jai Parshuram,Vishnu Namunda  Batta Ala Sawan  Ankit Budsamiya,,Ankit X Sawan Team,Apple,IN,1,0.0234974796,78
+Apple,Apr/23,INK782201272,,Na Karo Ignore,Shera Baman  Laddi Pandat,,Ankit X Sawan Team,Apple,IN,2,0.093989919,78
+Apple,Apr/23,INK782201064,,Rawan Raj,Batta Ala Sawan  Ankit Budsamiya,,Ankit X Sawan Team,Apple,IN,1,0.0326478588,78
+Apple,Apr/23,INK782201064,,Rawan Raj,Batta Ala Sawan  Ankit Budsamiya,,Ankit X Sawan Team,Apple,IN,1,0.0652957176,78
+Apple,Apr/23,INK782201102,,Brahman Brand,Ankit Budsamiya Batta Ala Sawan,,Ankit X Sawan Team,Apple,IN,5,0.3860651862,78
+Apple,Apr/23,INK782201186,,Rajput Kaum,Harsh Karnal  Deep Rajput  Aman Rajput,,Ankit X Sawan Team,Apple,IN,1,0.0482581482,78
+Apple,Apr/23,INK782201186,,Rajput Kaum,Harsh Karnal  Deep Rajput  Aman Rajput,,Ankit X Sawan Team,Apple,IN,1,0.0575060526,78
+Apple,Apr/23,INK782201229,,Jai Jai Parshuram,Vishnu Namunda  Batta Ala Sawan  Ankit Budsamiya,,Ankit X Sawan Team,Apple,IN,6,0.5750605284,78
+Apple,Apr/23,INK782201250,,Baman Ki Barat,RDX,,Ankit X Sawan Team,Apple,US,1,0.11526165,78
+Apple,Apr/23,INK782201250,,Baman Ki Barat,RDX,,Ankit X Sawan Team,Apple,US,1,0.2426716248,78
+Apple,Apr/23,INK782201146,,Lori Sunaye Gora Maiya (Dj Remix),Shahnaz Akhtar,,Bhakti Mala,Apple,US,1,0.2632235232,63
+Apple,Apr/23,INK782200398,,JOOTHA DHONG (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,AU,1,0.4357734288,39
+Apple,Apr/23,INK782200384,,Bamboo Kaat (feat. Ral Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,AU,1,0.3410512248,39
+Apple,Apr/23,INK782200398,,JOOTHA DHONG (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,AU,1,0.682102449,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,CA,1,0.1300807458,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,CA,1,0.1608771378,39
+Apple,Apr/23,INK782200384,,Bamboo Kaat (feat. Ral Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,CA,1,0.2718492786,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,GB,1,0.5958716316,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,1,0.0469949592,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,6,0.3264785868,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,5,0.4343233344,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,1,0.1046165982,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,2,0.1716961572,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,19,1.7826876378,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,1,0.0575060526,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,11,1.1013603162,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,IN,1,0.1446712428,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,NZ,1,0.2699277942,39
+Apple,Apr/23,INK782200371,,JAAT MEHAR SINGH VS BOB MARLEY (feat. Raj Mawar),Chaudhary Rajdeep,,Chaudhary Rajdeep official,Apple,US,1,0.1489644042,39
+Apple,Apr/23,INK782201032,,Baba Bolege Jaikara Tera Parwat Chadh Ke,Dc Sharma Salempuriya,,Dc Sharma Salempuriya,Apple,IN,1,0.0482581482,79
+Apple,Apr/23,INK782200402,,Much Love,U.K. Haryanvi,,Desi feel,Apple,CA,1,0.3380182338,43
+Apple,Apr/23,INK782201245,,Saah,A Jay,,Dhakad Records,Apple,AE,1,0.2974699518,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,AU,1,0.1276639896,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,AU,1,0.1783705596,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,AU,2,0.6536601432,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,AU,1,0.2668680954,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,AU,1,0.5337361908,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,AU,1,0.682102449,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,CA,17,3.6422608746,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,CA,1,0.140933691,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,CA,2,0.422801073,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,CA,1,0.1690091172,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,CA,1,0.3380182338,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,CA,2,0.6393034218,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,CA,1,0.607455747,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,CA,2,0.9111836202,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,CA,8,3.948462354,17
+Apple,Apr/23,INK782200490,,VISHKANYA (feat. Babbal Ramrai Ala   Jatin Sain),Sahil Frain Ala,,Dhakad Records,Apple,CA,1,0.3037278732,17
+Apple,Apr/23,INK782201245,,Saah,A Jay,,Dhakad Records,Apple,GB,1,0.259721574,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,GB,1,0.266537184,17
+Apple,Apr/23,INK782200018,,Jail,Divesh Khatana,,Dhakad Records,Apple,IN,1,0.0234974796,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,41,1.59782862,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,1,0.0234974796,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,22,0.8694067488,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,38,2.0568150966,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,4,0.228535011,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,44,2.4159415422,17
+Apple,Apr/23,INK782200732,,Pehla Tanki Kari Full,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,3,0.1632392934,17
+Apple,Apr/23,INK782201337,,Cctv,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,2,0.0979435758,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,1,0.0721008378,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,2,0.144201675,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,8,0.6273559272,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,1,0.0482581482,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,19,1.5442607436,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,4,0.3661580934,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,2,0.2092331964,17
+Apple,Apr/23,INK782201337,,Cctv,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,1,0.0523082988,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,10,0.9729448896,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,10,0.9729448896,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,2,0.1716961572,17
+Apple,Apr/23,INK782200732,,Pehla Tanki Kari Full,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,1,0.0572320524,17
+Apple,Apr/23,INK782201337,,Cctv,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,1,0.0572320524,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,8,0.7475786868,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,77,7.418280816,17
+Apple,Apr/23,INK782200041,,Gundagardi,Hitesh Kagra,,Dhakad Records,Apple,IN,1,0.0575060526,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,84,8.050847394,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,1,0.0575060526,17
+Apple,Apr/23,INK782200490,,VISHKANYA (feat. Babbal Ramrai Ala   Jatin Sain),Sahil Frain Ala,,Dhakad Records,Apple,IN,2,0.1725181584,17
+Apple,Apr/23,INK782201337,,Cctv,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,10,0.9200968452,17
+Apple,Apr/23,INK782201337,,Cctv,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,11,1.035108951,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,2,0.1738989972,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,36,3.4779799458,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,54,5.2169699184,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,1,0.1159326648,17
+Apple,Apr/23,INK782200490,,VISHKANYA (feat. Babbal Ramrai Ala   Jatin Sain),Sahil Frain Ala,,Dhakad Records,Apple,IN,2,0.2318653296,17
+Apple,Apr/23,INK782200732,,Pehla Tanki Kari Full,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,3,0.289831662,17
+Apple,Apr/23,INK782200924,,Level Up (feat. R Jay),Sahil Frain Ala,,Dhakad Records,Apple,IN,1,0.1159326648,17
+Apple,Apr/23,INK782201152,,Theke Bharose (feat. Sahil Frain Ala),Baggi Daulatpuria,,Dhakad Records,Apple,IN,1,0.1159326648,17
+Apple,Apr/23,INK782201337,,Cctv,Senu Bhiwani Ala  Sahil Frain Ala,,Dhakad Records,Apple,IN,23,2.2027206324,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,IN,5,0.5786849724,17
+Apple,Apr/23,INK782200477,,Bhand (feat. Ron Likhari),Miki Malang,,Dhakad Records,Apple,IN,7,0.7956918366,17
+Apple,Apr/23,INK782200025,,Splendor (feat. Sahil Frain Ala),Senu Bhiwani Ala,,Dhakad Records,Apple,US,1,0.11526165,17
+Apple,Apr/23,INK782200585,,Shree Krishna Govind,Dinesh Thukran,,DT In Mood,Apple,IN,1,0.0469949592,1
+Apple,Apr/23,INK782200585,,Shree Krishna Govind,Dinesh Thukran,,DT In Mood,Apple,MU,2,0.6351327654,1
+Apple,Apr/23,INK782201330,,Happy Birthday Yaara,Amit Pandit,,F O Amit Pandit,Apple,CA,1,0.1608771378,96
+Apple,Apr/23,INK782200856,,Chandigarh,Harry Dhaliwal,,Harry Dhaliwal Music,Apple,IN,1,0.0575060526,39
+Apple,Apr/23,INK782200436,,Na Samajh (Featuring. Rawat) (feat. Rawat),Christ.,,HighHill Records,Apple,US,1,0.1316265048,45
+Apple,Apr/23,INK782200535,,High Main Bhai,Kaaj,,HR Stuff Music,Apple,CA,1,0.1300807458,37
+Apple,Apr/23,INK782200535,,High Main Bhai,Kaaj,,HR Stuff Music,Apple,CA,1,0.3037278732,37
+Apple,Apr/23,INK782200894,,Hisar Ka,PSL,,HR Stuff Music,Apple,IN,14,0.5639395128,37
+Apple,Apr/23,INK782200423,,Shiv Rudrashtakam,Rahul Hisariya,,HR Stuff Music,Apple,IN,1,0.0326478588,37
+Apple,Apr/23,INK782200796,,Khatu Aale (khatu Shyam Bhajan),Rahul Hisariya,,HR Stuff Music,Apple,IN,1,0.0482581482,37
+Apple,Apr/23,INK782200423,,Shiv Rudrashtakam,Rahul Hisariya,,HR Stuff Music,Apple,IN,1,0.0523082988,37
+Apple,Apr/23,INK782200401,,Shiv Shiv Shiv Shambhu,Rahul Hisariya  K.deep,,HR Stuff Music,Apple,IN,2,0.2300242116,37
+Apple,Apr/23,INK782200423,,Shiv Rudrashtakam,Rahul Hisariya,,HR Stuff Music,Apple,IN,3,0.2875302642,37
+Apple,Apr/23,INK782200536,,Meethi Meethi Baatan,Rahul Hisariya,,HR Stuff Music,Apple,IN,1,0.0575060526,37
+Apple,Apr/23,INK782200796,,Khatu Aale (khatu Shyam Bhajan),Rahul Hisariya,,HR Stuff Music,Apple,IN,1,0.0575060526,37
+Apple,Apr/23,INK782200796,,Khatu Aale (khatu Shyam Bhajan),Rahul Hisariya,,HR Stuff Music,Apple,US,1,0.11526165,37
+Apple,Apr/23,INK782200535,,High Main Bhai,Kaaj,,HR Stuff Music,Apple,US,1,0.2426716248,37
+Apple,Apr/23,INK782200796,,Khatu Aale (khatu Shyam Bhajan),Rahul Hisariya,,HR Stuff Music,Apple,US,4,1.4560297482,37
+Apple,Apr/23,INK782201385,,Neet Neet Peg,Meet Amit,,INK Records,Apple,IN,2,0.1738989972,18
+Apple,Apr/23,INK782300186,,Blur,Sahil Nidawli,,Iomupadhyay,Apple,IN,2,0.0979435758,114
+Apple,Apr/23,INK782201570,,Reggaeton Type Beat,Jatin Saroha,,Jatin Saroha,Apple,JP,1,0.0960898038,103
+Apple,Apr/23,INK782300011,,Bhai Ka Byah,Rahul Puthi,,Jems Entertainments,Apple,CA,1,0.3037278732,70
+Apple,Apr/23,INK782200218,,Gamma Ale Yaar,Rohit Kailashpuriya,,Kartik Soni Productions,Apple,AU,1,0.2178867144,10
+Apple,Apr/23,INK782200248,,Syl Reply and Truth,Kartik Soni,,Kartik Soni Productions,Apple,CA,1,0.1690091172,10
+Apple,Apr/23,INK782200462,,DAKU (feat. Nitin Verma Mulodi),Chaman Prajapati,,Kartik Soni Productions,Apple,IN,1,0.0579663324,10
+Apple,Apr/23,INK782200839,,Legend Hanuman,Kartik Soni,,Kartik Soni Productions,Apple,US,1,0.1324226328,10
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,AU,1,0.2553279792,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,AU,1,0.2553279792,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,AU,14,5.01139443,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,AU,4,2.3873585718,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,AU,1,0.682102449,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,CA,5,1.1707267098,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,CA,1,0.1608771378,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,CA,2,0.507027351,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,CA,1,0.1690091172,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,CA,2,0.6393034218,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,CA,1,0.2260875708,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,CA,17,8.80810833,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,CA,1,0.3144880584,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,CA,1,0.3144880584,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IE,1,0.3660116916,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,DE,1,0.258175407,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,PT,1,0.3279305934,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,DE,1,0.9102465318,34
+Apple,Apr/23,INK782200272,,Teri Meri Jodi,R. Deep,,Link Music Haryanvi,Apple,GB,1,0.5958716316,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,1,0.0128579004,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,2,0.0704924394,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,45,1.7623109778,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,IN,3,0.1174873986,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,2,0.1305914346,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,67,3.6565601724,34
+Apple,Apr/23,INK782201600,,Gundagardi,Gurnain  Bunty King Haryana,,Link Music Haryanvi,Apple,IN,1,0.0652957176,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,2,0.1081512564,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,42,3.378070377,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,13,1.0984742808,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,15,1.4308013076,34
+Apple,Apr/23,INK782200373,,Ek Mulakat (feat. Mohit Sharma & Vandna),Shooda AlaAS),,Link Music Haryanvi,Apple,IN,1,0.0575060526,34
+Apple,Apr/23,INK782200074,,It's Ok,Harsh Mudgil,,Link Music Haryanvi,Apple,IN,2,0.1725181584,34
+Apple,Apr/23,INK782200498,,????? ???? ?? ?????? ?????? ????,Pooja Diwakar,,Link Music Haryanvi,Apple,IN,1,0.0575060526,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,22,2.070217902,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,IN,10,0.9200968452,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,13,1.217292981,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,128,12.404795142,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,IN,2,0.1738989972,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,IN,37,4.484808534,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,IN,1,0.0723356214,34
+Apple,Apr/23,INK782201600,,Gundagardi,Gurnain  Bunty King Haryana,,Link Music Haryanvi,Apple,MX,1,0.095574246,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,SG,1,0.463213071,34
+Apple,Apr/23,INK782201600,,Gundagardi,Gurnain  Bunty King Haryana,,Link Music Haryanvi,Apple,UA,1,0.1504217472,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,US,1,0.11526165,34
+Apple,Apr/23,INK782201577,,Budget,Muskan Lohan  Aakash saini,,Link Music Haryanvi,Apple,US,1,0.1316265048,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,US,3,0.7448220216,34
+Apple,Apr/23,INK782200072,,Shooter,Iqbal Sandhu,,Link Music Haryanvi,Apple,US,1,0.4853432496,34
+Apple,Apr/23,INK782201463,,Sipahi Billo (feat. Anjali Raghav),Jonga,,Link Music Haryanvi,Apple,US,1,0.4853432496,34
+Apple,Apr/23,INK782201654,,Takdeer,Sandeep Matnora  Gyaninder Sardhana,,Matnora Wala Official,Apple,GB,1,0.259721574,59
+Apple,Apr/23,INK782300114,,Dekh Aakhbaar,Harendra Nagar,,Matnora Wala Official,Apple,IN,1,0.0234974796,59
+Apple,Apr/23,INK782300176,,Hukum Ka Ikka,Sandeep Nagar  Gyanender Sardhana,,Matnora Wala Official,Apple,IN,1,0.0482581482,59
+Apple,Apr/23,INK782300114,,Dekh Aakhbaar,Harendra Nagar,,Matnora Wala Official,Apple,IN,1,0.0523082988,59
+Apple,Apr/23,INK782200738,,Matlab Ka Sansar (feat. Adesh Kallu),Sandeep Matnora  Mahesh Nagar,,Mantora Wala Official,Apple,IN,2,0.2300242116,59
+Apple,Apr/23,INK782200738,,Matlab Ka Sansar (feat. Adesh Kallu),Sandeep Matnora  Mahesh Nagar,,Mantora Wala Official,Apple,IN,16,1.5650909754,59
+Apple,Apr/23,INK782300114,,Dekh Aakhbaar,Harendra Nagar,,Matnora Wala Official,Apple,IN,1,0.0723356214,59
+Apple,Apr/23,INK782200746,,Kali Car,Sachu Prajapati,,Mavi Haryana,Apple,IN,1,0.0652957176,36
+Apple,Apr/23,INK782200746,,Kali Car,Sachu Prajapati,,Mavi Haryana,Apple,IN,1,0.0482581482,36
+Apple,Apr/23,INK782200746,,Kali Car,Sachu Prajapati,,Mavi Haryana,Apple,IN,2,0.1716961572,36
+Apple,Apr/23,INK782200746,,Kali Car,Sachu Prajapati,,Mavi Haryana,Apple,IN,4,0.3450363168,36
+Apple,Apr/23,INK782200746,,Kali Car,Sachu Prajapati,,Mavi Haryana,Apple,IN,2,0.1738989972,36
+Apple,Apr/23,INK782200746,,Kali Car,Sachu Prajapati,,Mavi Haryana,Apple,IN,1,0.0624556068,36
+Apple,Apr/23,INK782201647,,Gujjar Baaghi,M.G. Gujjar,,MG Gujjar,Apple,IN,1,0.0326478588,108
+Apple,Apr/23,INK782300130,,Gurjar ka Sikka,Mahesh Nagar,,MG Gujjar,Apple,IN,1,0.0326478588,108
+Apple,Apr/23,INK782300130,,Gurjar ka Sikka,Mahesh Nagar,,MG Gujjar,Apple,IN,1,0.0426496518,108
+Apple,Apr/23,INK782201647,,Gujjar Baaghi,M.G. Gujjar,,MG Gujjar,Apple,IN,2,0.228928209,108
+Apple,Apr/23,INK782201647,,Gujjar Baaghi,M.G. Gujjar,,MG Gujjar,Apple,IN,3,0.2875302642,108
+Apple,Apr/23,INK782300130,,Gurjar ka Sikka,Mahesh Nagar,,MG Gujjar,Apple,IN,1,0.0575060526,108
+Apple,Apr/23,INK782201647,,Gujjar Baaghi,M.G. Gujjar,,MG Gujjar,Apple,IN,1,0.1159326648,108
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,AU,1,0.2553279792,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,AU,1,0.1276639896,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,AU,1,0.1276639896,67
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,AU,3,1.089433572,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,AU,1,0.2178867144,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,AU,2,0.8715468576,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,AU,1,0.5970552918,67
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,AU,2,1.0231536738,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,CA,1,0.1300807458,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,CA,7,1.4308882008,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,CA,3,0.704668455,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,CA,1,0.1478907072,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,CA,1,0.1608771378,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,CA,2,0.507027351,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,CA,1,0.426202281,67
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,CA,1,0.3037278732,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,CA,1,0.607455747,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,CA,4,1.8223672404,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,GB,1,0.8609520438,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,GB,1,0.7954493472,67
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,IN,1,0.0234974796,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,2,0.0704924394,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,IN,1,0.0326478588,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,11,0.6203093148,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,IN,1,0.0721008378,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,1,0.0360504186,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,1,0.0426496518,67
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,IN,1,0.0482581482,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,3,0.241290741,67
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,IN,1,0.1144641048,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,IN,2,0.1716961572,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,1,0.1144641048,67
+Apple,Apr/23,TCAGF2234045,,Sooraj (feat. Ron likhari),Miki Malang,,Miki Malang,Apple,IN,2,0.2300242116,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,IN,5,0.5175544758,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,15,1.437651321,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,IN,3,0.289831662,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,9,0.8694949866,67
+Apple,Apr/23,TCAFT2137100,,Bhand (???) (feat. Ron Likhari),Miki Malang,,Miki Malang,Apple,IN,1,0.0624556068,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,IN,1,0.0723356214,67
+Apple,Apr/23,TCAFY2105869,,Bhyani Te Hisar,Miki Malang  D.N.A Sargna,,Miki Malang,Apple,IN,1,0.0723356214,67
